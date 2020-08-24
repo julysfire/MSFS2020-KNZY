@@ -4,12 +4,12 @@
   "title": "",
   "manufacturer": "",
   "creator": "",
-  "package_version": "0.2.0",
+  "package_version": "0.3.0",
   "minimum_game_version": "1.7.12",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "VERSION 0.2.0 RELEASED JANUARY 1, 0\\nSome fixing of runways starting locations, added taxiway lights",
-      "OlderHistory": ""
+      "LastUpdate": "VERSION 0.3.0 RELEASED JANUARY 1, 0\\nAdded airport freqencies\nAdded taxiway B2, F, G, H, X\nDid some correcting of the runway lights\nFixed runway starting locations",
+      "OlderHistory": "VERSION 0.2.0 RELEASED JANUARY 1, 0\\nSome fixing of runways starting locations, added taxiway lights"
     }
   }
 }
