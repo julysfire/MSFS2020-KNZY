@@ -4,11 +4,11 @@
   "title": "",
   "manufacturer": "",
   "creator": "",
-  "package_version": "0.1.0",
+  "package_version": "0.2.0",
   "minimum_game_version": "1.7.12",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "",
+      "LastUpdate": "VERSION 0.2.0 RELEASED JANUARY 1, 0\\nSome fixing of runways starting locations, added taxiway lights",
       "OlderHistory": ""
     }
   }
