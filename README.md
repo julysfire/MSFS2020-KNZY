@@ -6,6 +6,8 @@ Discord: julysfire#9465  MSFS2020: blackflame0729
 KNZY Naval Air Station on North Island in San Diego.
 
 ###### Summary
+THIS IS CURRENTLY A WIP.
+
 This is my first time making anything like this let alone in Flight Sim, will continue to work on this as I learn and go along.  This airport wasn't in the base game but is an active airfield in FSEconomy.
 
 **---Installation Instructions---**
@@ -15,7 +17,7 @@ This is my first time making anything like this let alone in Flight Sim, will co
    
 
 **---TODO---**
-1. More 3D Objects
+1. More 3D Objects, custom ones too
 2. More parking spaces
 3. Better textures
 4. Taxiway signs
