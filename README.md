@@ -10,7 +10,8 @@ THIS IS CURRENTLY A WIP.
 
 This is my first time making anything like this let alone in Flight Sim, will continue to work on this as I learn and go along.  This airport wasn't in the base game but is an active airfield in FSEconomy.
 
-**---Installation Instructions---**
+
+#### ---Installation Instructions---
 1. Download the .zip file from Releases (or julysfire-knzy folder here)
 2. Extract files to the your Microsoft Flight Simulator Communities Folder (if you downlaoded just the folder, move just the folder to the Community folder)
   -This folder is defaulted to %AppData%\Local\Packages\Microsoft Flight Simulator_8wekyb3d8bbwe\LocalCache\Packages\Community\
@@ -22,3 +23,5 @@ This is my first time making anything like this let alone in Flight Sim, will co
 3. Better textures
 4. Taxiway signs
 5. North end of the aiport (service roads ect)
+6. Taxi way J, K, L on north end of air field
+7. Correct any issues/bugs that may come up
