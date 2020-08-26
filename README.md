@@ -33,29 +33,29 @@ For the Steam edition:
 
 All current airport designs (runways, taxiways, aprons, ect)
 
-![All current airport designs.](EditorItems.JPG)
+![All current airport designs.](\Screenshots\EditorItems.JPG)
 
 Day Time
 
-![Daytime](DayTime.JPG)
+![Daytime](\Screenshots\DayTime.JPG)
 
 Airfield
 
-![Airfield](AirField.JPG)
+![Airfield](\Screenshots\AirField.JPG)
 
 Topdown
 
-![Topdown](TopDown.JPG)
+![Topdown](\Screenshots\TopDown.JPG)
 
 Sunset
 
-![Sunset](Sunset.JPG)
+![Sunset](\Screenshots\Sunset.JPG)
 
 Night
 
-!(Night)[Nighttime.JPG]
+![Night](\Screenshots\Nighttime.JPG)
 
-!(Night2)[NightTime2.JPG]
+![Night2](Nighttime2.JPG)
 
 
 **---TODO---**
