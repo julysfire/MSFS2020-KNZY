@@ -33,7 +33,7 @@ For the Steam edition:
 
 All current airport designs (runways, taxiways, aprons, ect)
 
-![All current airport designs.](\Screenshots\EditorItems.JPG)
+![All current airport designs.](Screenshots/EditorItems.JPG)
 
 Day Time
 
