@@ -16,12 +16,10 @@ This is my first time making anything like this let alone in Flight Sim, will co
 2. Extract files to the your Microsoft Flight Simulator Community Folder
 
 For the Microsoft Store edition AND/OR Gamepass edition:
-
-    It is located in: C:\Users\[YOUR USERNAME]\AppData\Local\Packages\Microsoft.FlightSimulator_<RANDOMLETTERS>\LocalCache\Packages\Community.
+	C:\Users\[YOUR USERNAME]\AppData\Local\Packages\Microsoft.FlightSimulator_<RANDOMLETTERS>\LocalCache\Packages\Community.
 	
 For the Steam edition:
-
-    It is located in: C:\Users\[YOUR USERNAME]\AppData\Roaming\Microsoft Flight Simulator\Packages\Community.
+	C:\Users\[YOUR USERNAME]\AppData\Roaming\Microsoft Flight Simulator\Packages\Community.
    
 
 **---TODO---**
