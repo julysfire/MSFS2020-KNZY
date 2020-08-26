@@ -1,12 +1,14 @@
 # KNZY - North Island Naval Air Station (Halsey Field)
 #### Author: Julysfire
-Discord: julysfire#9465  MSFS2020: blackflame0729
+Discord: julysfire#9465        MSFS2020: blackflame0729
 
 ###### Description
 KNZY Naval Air Station on North Island in San Diego.
 
 ###### Summary
 This is currently a small project of mine that I will continue work on.
+
+I am currently working on importing custom 3D photorealistic buildings and props to continue to improve this.
 
 This is my first time making anything like this let alone in Flight Sim, will continue to work on this as I learn and go along.  This airport wasn't in the base game but is an active airfield in FSEconomy.
 
@@ -37,13 +39,24 @@ Day Time
 
 ![Daytime](DayTime.JPG)
 
-Airfiled
+Airfield
 
 ![Airfield](AirField.JPG)
+
+Topdown
+
+![Topdown](TopDown.JPG)
 
 Sunset
 
 ![Sunset](Sunset.JPG)
+
+Night
+
+!(Night)[Nighttime.JPG]
+
+!(Night2)[NightTime2.JPG]
+
 
 **---TODO---**
 1. More 3D Objects, custom ones too
@@ -51,5 +64,4 @@ Sunset
 3. Better textures
 4. Taxiway signs
 5. Service roads ect
-6. More lights on buildings...helps make it look way less...abanadoned.
-7. Correct any issues/bugs that may come up
+6. Correct any issues/bugs that may come up
