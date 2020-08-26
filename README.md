@@ -58,10 +58,10 @@ Night
 ![Night2](Screenshots/Nighttime2.JPG)
 
 
-**---TODO---**
+**---TODO (in priority)---**
 1. More 3D Objects, custom ones too
-2. More parking spaces
+2. Taxiway Signs
 3. Better textures
-4. Taxiway signs
+4. More parking spaces
 5. Service roads ect
 6. Correct any issues/bugs that may come up
