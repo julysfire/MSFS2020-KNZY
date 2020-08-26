@@ -37,11 +37,11 @@ All current airport designs (runways, taxiways, aprons, ect)
 
 Day Time
 
-![Daytime](\Screenshots\DayTime.JPG)
+![Daytime](Screenshots/DayTime.JPG)
 
 Airfield
 
-![Airfield](\Screenshots\AirField.JPG)
+![Airfield](Screenshots/AirField.JPG)
 
 Topdown
 
@@ -49,11 +49,11 @@ Topdown
 
 Sunset
 
-![Sunset](\Screenshots\Sunset.JPG)
+![Sunset](Screenshots/Sunset.JPG)
 
 Night
 
-![Night](\Screenshots\Nighttime.JPG)
+![Night](/Screenshots/Nighttime.JPG)
 
 ![Night2](Nighttime2.JPG)
 
