@@ -12,7 +12,7 @@ I am currently working on importing custom 3D photorealistic buildings and props
 
 This is my first time making anything like this let alone in Flight Sim, will continue to work on this as I learn and go along.  This airport wasn't in the base game but is an active airfield in FSEconomy.
 
-This is a MS2020 creation fo r KNZY - North Island Air Station (Halsey Field)
+This is a MS2020 creation for KNZY - North Island Air Station (Halsey Field).
 
 Wiki: <https://en.wikipedia.org/wiki/Naval_Air_Station_North_Island>
 
