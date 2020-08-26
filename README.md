@@ -60,8 +60,7 @@ Night
 
 **---TODO (in priority)---**
 1. More 3D Objects, custom ones too
-2. Taxiway Signs
-3. Better textures
-4. More parking spaces
-5. Service roads ect
-6. Correct any issues/bugs that may come up
+2. Better textures
+3. More parking spaces
+4. Service roads ect
+5. Correct any issues/bugs that may come up
