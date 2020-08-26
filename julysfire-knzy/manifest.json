@@ -4,11 +4,11 @@
   "title": "KNZY - North Island NAS",
   "manufacturer": "",
   "creator": "Julysfire",
-  "package_version": "0.9.1",
+  "package_version": "0.9.2",
   "minimum_game_version": "1.7.12",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "",
+      "LastUpdate": "VERSION 0.9.2 RELEASED JANUARY 1, 0\\nFinally fixed polygon issue\nAlmost done, adding lights, see TODO on github",
       "OlderHistory": "VERSION 0.2.0 RELEASED JANUARY 1, 0\\nSome fixing of runways starting locations, added taxiway lights\\nVERSION 0.3.0 RELEASED JANUARY 1, 0\\nAdded airport freqencies\nAdded taxiway B2, F, G, H, X\nDid some correcting of the runway lights\nFixed runway starting-Taxiways done\n-Ground markings done\n-Aprons done?\n-Adding 3D buildings and other stuff"
     }
   }
