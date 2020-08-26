@@ -13,8 +13,11 @@ This is my first time making anything like this let alone in Flight Sim, will co
 
 #### ---Installation Instructions---
 1. Download the .zip file from Releases (or julysfire-knzy folder here)
-2. Extract files to the your Microsoft Flight Simulator Communities Folder (if you downlaoded just the folder, move just the folder to the Community folder)
-  -This folder is defaulted to %AppData%\Local\Packages\Microsoft Flight Simulator_8wekyb3d8bbwe\LocalCache\Packages\Community\
+2. Extract files to the your Microsoft Flight Simulator Community Folder
+	For the Microsoft Store edition AND/OR Gamepass edition:
+		It is located in: C:\Users\[YOUR USERNAME]\AppData\Local\Packages\Microsoft.FlightSimulator_<RANDOMLETTERS>\LocalCache\Packages\Community.
+	For the Steam edition:
+		It is located in: C:\Users\[YOUR USERNAME]\AppData\Roaming\Microsoft Flight Simulator\Packages\Community.
    
 
 **---TODO---**
