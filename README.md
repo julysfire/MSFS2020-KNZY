@@ -53,9 +53,9 @@ Sunset
 
 Night
 
-![Night](/Screenshots/Nighttime.JPG)
+![Night](Screenshots/Nighttime.JPG)
 
-![Night2](Nighttime2.JPG)
+![Night2](Screenshots/Nighttime2.JPG)
 
 
 **---TODO---**
