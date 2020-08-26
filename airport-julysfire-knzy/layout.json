@@ -6,9 +6,14 @@
       "date": 132399197780000000
     },
     {
+      "path": "manifest.json",
+      "size": 632,
+      "date": 132429497105699823
+    },
+    {
       "path": "scenery/world/scenery/airport-KNZY.bgl",
-      "size": 348138,
-      "date": 132429497105349505
+      "size": 348222,
+      "date": 132429546989429843
     },
     {
       "path": "scenery/world/scenery/MAIN-AIRPORT-POLY.BGL",
