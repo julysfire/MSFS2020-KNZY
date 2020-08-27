@@ -31,15 +31,30 @@ For the Steam edition:
 	C:\Users\[YOUR USERNAME]\AppData\Roaming\Microsoft Flight Simulator\Packages\Community
    
 
+### Release Notes
+
+Release: V1.1
+
+-Added a lot more 3D scenery
+-More lights
+-More parking
+-Fixed a lot of ground textures
+-Fixed a backwards taxiway sign
+-Fixed some painted lines to blend more seamlessly
+-Fixed PAPI lights
+
+-Included more screenshots
+
+
 #### Screenshots
-
-All current airport designs (runways, taxiways, aprons, ect)
-
-![All current airport designs.](Screenshots/EditorItems.JPG)
 
 Day Time
 
 ![Daytime](Screenshots/DayTime.JPG)
+
+![Daytime2](Screenshots/DayTime2.JPG)
+
+![Daytime3](Screenshots/DayTime3.JPG)
 
 Airfield
 
@@ -49,9 +64,16 @@ Topdown
 
 ![Topdown](Screenshots/TopDown.JPG)
 
+Sunrise
+![Sunrise](Screenshots/Sunrise.JPG)
+
 Sunset
 
 ![Sunset](Screenshots/Sunset.JPG)
+
+![Sunset2](Screenshots/Sunset2.JPG)
+
+![Sunset3](Screenshots/Sunset3.JPG)
 
 Night
 
@@ -59,6 +81,13 @@ Night
 
 ![Night2](Screenshots/Nighttime2.JPG)
 
+![Night3](Screenshots/Nighttime3.JPG)
+
+![Night4](Screenshots/Nighttime4.JPG)
+
+All current airport designs (runways, taxiways, aprons, ect)
+
+![All current airport designs.](Screenshots/EditorItems.JPG)
 
 **---TODO (in priority)---**
 1. More 3D Objects, custom ones too
