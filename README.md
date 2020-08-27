@@ -36,11 +36,17 @@ For the Steam edition:
 Release: V1.1
 
 -Added a lot more 3D scenery
+
 -More lights
+
 -More parking
+
 -Fixed a lot of ground textures
+
 -Fixed a backwards taxiway sign
+
 -Fixed some painted lines to blend more seamlessly
+
 -Fixed PAPI lights
 
 -Included more screenshots
