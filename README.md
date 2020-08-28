@@ -101,3 +101,6 @@ All current airport designs (runways, taxiways, aprons, ect)
 3. More parking spaces
 4. Service roads ect
 5. Correct any issues/bugs that may come up
+
+This is a new found hobby that I found I really enjoy.  If you enjoyed it as well and would like to donate, it is very much appreciated but never will be required.  I am doing this to add to the community and because I found I enjoyed it.
+http://paypal.me/julysfire
