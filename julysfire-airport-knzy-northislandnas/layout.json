@@ -1,0 +1,54 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/julysfire-airport-knzy-northislandnas/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399197780000000
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Library.xml",
+      "size": 1798,
+      "date": 132439192789979964
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/WHITE.PNG.DDS",
+      "size": 5636,
+      "date": 132439192791661486
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/white.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132438976657148909
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/WHITE.PNG.DDS.json",
+      "size": 181,
+      "date": 132439192791611439
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/YELLOW.PNG.DDS",
+      "size": 5636,
+      "date": 132439192790930823
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/yellow.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132438976825089395
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/YELLOW.PNG.DDS.json",
+      "size": 204,
+      "date": 132439192790880777
+    },
+    {
+      "path": "scenery/world/scenery/airport-KNZY.bgl",
+      "size": 401061,
+      "date": 132439192795345013
+    },
+    {
+      "path": "scenery/world/scenery/MAIN-AIRPORT-POLY.BGL",
+      "size": 3207,
+      "date": 132439192795805423
+    }
+  ]
+}

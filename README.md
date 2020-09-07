@@ -30,26 +30,20 @@ For the Steam edition:
 
 	C:\Users\[YOUR USERNAME]\AppData\Roaming\Microsoft Flight Simulator\Packages\Community
    
+### Important Installation Information
+
+Due to having custom materials, I have noticed that renaming the package (in this case julysfire-airport-knzy-northislandnas) before or after moving to the Community folder may case some textures to appear missing.  If this is the case, please make sure to name the folder "julysfire-airport-knzy-northislandnas" (no quotes).  If you have a previous version of this airport (airport-julysfire-KNZY), please remove that from your scenery folder.  The name change is to stay in line with Microsoft's naming convention.
 
 ### Release Notes
 
-Release: V1.1
+Release: V1.2
 
--Added a lot more 3D scenery
-
--More lights
-
--More parking
-
--Fixed a lot of ground textures
-
--Fixed a backwards taxiway sign
-
--Fixed some painted lines to blend more seamlessly
-
--Fixed PAPI lights
-
--Included more screenshots
+- Added a lot more 3D scenery
+- TONS of Painted Lines fixes and improvment based on better pictures 
+- Fixed a lot of ground textures
+- Vegetation fixes
+- Helipads on the taxiway fixes
+- Helipad numbers
 
 
 #### Screenshots
@@ -91,16 +85,10 @@ Night
 
 ![Night4](Screenshots/Nighttime4.JPG)
 
-All current airport designs (runways, taxiways, aprons, ect)
-
-![All current airport designs.](Screenshots/EditorItems.JPG)
-
 **---TODO (in priority)---**
 1. More 3D Objects, custom ones too
-2. Better textures
-3. More parking spaces
-4. Service roads ect
-5. Correct any issues/bugs that may come up
+2. Service roads ect
+3. Correct any issues/bugs that may come up
 
 This is a new found hobby that I found I really enjoy.  If you enjoyed it as well and would like to donate, it is very much appreciated but never will be required.  I am doing this to add to the community and because I found I enjoyed it.
 http://paypal.me/julysfire
