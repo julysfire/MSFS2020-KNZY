@@ -1,3 +1,6 @@
+Currently working on an issue with custom textures going missing when moving to the community folder.  Looking into this with priority, please continue to use V1.1 for now.  V1.2 will be released when fixed.
+
+
 # KNZY - North Island Naval Air Station (Halsey Field)
 #### Author: Julysfire
 Discord: julysfire#9465        MSFS2020: blackflame0729
