@@ -1,10 +1,9 @@
 <Library Version="1.1.0">
-	<Material Version="1.4.0" Name="myasphalt" Guid="{B037EA38-EDF8-4AE5-B41B-2CA423ADA3EF}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+	<Material Version="1.4.0" Name="whitepan" Guid="{35638458-5F31-4EBA-AF1F-FEBF02C697D1}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
-			<Texture FileName="TEXTURES\ASPHALT01_ALBEDO.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
-			<Texture FileName="TEXTURES\ASPHALT01_COMP.PNG.DDS" Binding="MTL_BITMAP_NORMAL_ROUGH_METAL"/>
+			<Texture FileName="TEXTURES\WPC.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
@@ -19,11 +18,11 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
-	<Material Version="1.4.0" Name="Whitepaint" Guid="{7C79FD4F-16C4-4A09-BA49-951A44A7F412}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+	<Material Version="1.4.0" Name="yellowpan" Guid="{D104FEF2-5C84-4042-94E6-13FB798DE11F}" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
-			<Texture FileName="TEXTURES\WHITEC.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+			<Texture FileName="TEXTURES\YPC.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
