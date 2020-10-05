@@ -7,68 +7,18 @@
     },
     {
       "path": "manifest.json",
-      "size": 303,
-      "date": 132439994714797859
-    },
-    {
-      "path": "MaterialLibs/mymaterials/Library.xml",
-      "size": 1906,
-      "date": 132439964647731829
-    },
-    {
-      "path": "MaterialLibs/mymaterials/Textures/ASPHALT01_ALBEDO.PNG.DDS",
-      "size": 2097280,
-      "date": 132439964648352401
-    },
-    {
-      "path": "MaterialLibs/mymaterials/Textures/Asphalt01_Albedo.png.DDS.FLAGS",
-      "size": 39,
-      "date": 132399197780000000
-    },
-    {
-      "path": "MaterialLibs/mymaterials/Textures/ASPHALT01_ALBEDO.PNG.DDS.json",
-      "size": 232,
-      "date": 132439964648302355
-    },
-    {
-      "path": "MaterialLibs/mymaterials/Textures/ASPHALT01_COMP.PNG.DDS",
-      "size": 2097280,
-      "date": 132439964648022104
-    },
-    {
-      "path": "MaterialLibs/mymaterials/Textures/Asphalt01_COMP.png.DDS.FLAGS",
-      "size": 21,
-      "date": 132399197780000000
-    },
-    {
-      "path": "MaterialLibs/mymaterials/Textures/ASPHALT01_COMP.PNG.DDS.json",
-      "size": 176,
-      "date": 132439964648002080
-    },
-    {
-      "path": "MaterialLibs/mymaterials/Textures/WHITEC.PNG.DDS",
-      "size": 1048704,
-      "date": 132439964648472514
-    },
-    {
-      "path": "MaterialLibs/mymaterials/Textures/Whitec.png.DDS.FLAGS",
-      "size": 39,
-      "date": 132439963759224168
-    },
-    {
-      "path": "MaterialLibs/mymaterials/Textures/WHITEC.PNG.DDS.json",
-      "size": 181,
-      "date": 132439964648452491
+      "size": 302,
+      "date": 132463377388267122
     },
     {
       "path": "MaterialLibs/mymats/Library.xml",
       "size": 1791,
-      "date": 132439973007582694
+      "date": 132463372480449550
     },
     {
       "path": "MaterialLibs/mymats/Textures/WPC.PNG.DDS",
       "size": 1048704,
-      "date": 132439972342591871
+      "date": 132463372480809246
     },
     {
       "path": "MaterialLibs/mymats/Textures/wpc.png.DDS.FLAGS",
@@ -78,12 +28,12 @@
     {
       "path": "MaterialLibs/mymats/Textures/WPC.PNG.DDS.json",
       "size": 181,
-      "date": 132439972342561842
+      "date": 132463372480759193
     },
     {
       "path": "MaterialLibs/mymats/Textures/YPC.PNG.DDS",
       "size": 1048704,
-      "date": 132439973007742839
+      "date": 132463372480669100
     },
     {
       "path": "MaterialLibs/mymats/Textures/ypc.png.DDS.FLAGS",
@@ -93,17 +43,17 @@
     {
       "path": "MaterialLibs/mymats/Textures/YPC.PNG.DDS.json",
       "size": 232,
-      "date": 132439973007712807
+      "date": 132463372480620833
     },
     {
       "path": "scenery/global/scenery/airport-KNZY.bgl",
-      "size": 406229,
-      "date": 132440050054683694
+      "size": 445593,
+      "date": 132463450130591419
     },
     {
       "path": "scenery/global/scenery/MAIN-AIRPORT-POLY.BGL",
-      "size": 3207,
-      "date": 132439964647551666
+      "size": 3375,
+      "date": 132463450131001797
     }
   ]
 }
