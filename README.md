@@ -42,30 +42,28 @@ Release: V1.3.0
 
 Day Time
 
-![Daytime](Screenshots/DayTime.JPG)
+![Daytime](Screenshots/DayTime1.PNG)
 
-![Daytime2](Screenshots/DayTime2.JPG)
-
-![Daytime3](Screenshots/DayTime3.JPG)
 
 Airfield
 
-![Airfield](Screenshots/AirField.JPG)
+![Airfield](Screenshots/AirField.PNG)
 
 Topdown
 
-![Topdown](Screenshots/TopDown.JPG)
+![Topdown](Screenshots/TopDown.PNG)
 
 Sunrise
-![Sunrise](Screenshots/Sunrise.JPG)
+
+![Sunrise](Screenshots/Sunrise2.PNG)
+
+![Sunrise](Screenshots/Sunrise3.PNG)
 
 Sunset
 
-![Sunset](Screenshots/Sunset.JPG)
+![Sunset](Screenshots/Sunset1.PNG)
 
-![Sunset2](Screenshots/Sunset2.JPG)
-
-![Sunset3](Screenshots/Sunset3.JPG)
+![Sunset2](Screenshots/Sunset2.PNG)
 
 Night
 
@@ -77,6 +75,9 @@ Night
 
 ![Night4](Screenshots/Nighttime4.JPG)
 
+Google Maps
+
+![GMaps](Screenshots/GMaps.png)
 
 This is a new found hobby that I found I really enjoy.  If you enjoyed it as well and would like to donate, it is very much appreciated but never will be required.  I am doing this to add to the community and because I found I enjoyed it.
 http://paypal.me/julysfire
