@@ -29,14 +29,14 @@ For the Steam edition:
 
 ### Release Notes
 
-Release: V1.3
+Release: V1.3.0
 
 - Fixed and improved on a lot of ground textures.  This should look a lot closer to Google map's images of the area.
 - Taxiways and runways should now line up (ATC should be able to guide correctly now).
-- Corrected some of the incorrect hold short lines
-- Fixed some approach lighting systems
-- Found and put back an apron that had gone missing
-- Added some more 3D objects
+- Corrected some of the incorrect hold short lines.
+- Fixed some approach lighting systems.
+- Found and put back an apron that had gone missing.
+- Added some more 3D objects.
 
 #### Screenshots
 
