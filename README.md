@@ -42,12 +42,12 @@ Release: V1.3.0
 
 Day Time
 
-![Daytime](Screenshots/DayTime1.PNG)
+![Daytime](Screenshots/Daytime1.PNG)
 
 
 Airfield
 
-![Airfield](Screenshots/AirField.PNG)
+![Airfield](Screenshots/Airfield.PNG)
 
 Topdown
 
@@ -77,7 +77,7 @@ Night
 
 Google Maps
 
-![GMaps](Screenshots/GMaps.png)
+![GMaps](Screenshots/GMaps.PNG)
 
 This is a new found hobby that I found I really enjoy.  If you enjoyed it as well and would like to donate, it is very much appreciated but never will be required.  I am doing this to add to the community and because I found I enjoyed it.
 http://paypal.me/julysfire
