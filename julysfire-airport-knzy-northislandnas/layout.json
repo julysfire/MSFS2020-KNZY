@@ -6,54 +6,49 @@
       "date": 132399197780000000
     },
     {
-      "path": "manifest.json",
-      "size": 302,
-      "date": 132463450131402823
-    },
-    {
-      "path": "MaterialLibs/mymats/Library.xml",
+      "path": "MaterialLibs/mymatsKNZY/Library.xml",
       "size": 1791,
-      "date": 132463372480449550
+      "date": 132487259135172889
     },
     {
-      "path": "MaterialLibs/mymats/Textures/WPC.PNG.DDS",
-      "size": 1048704,
-      "date": 132463372480809246
+      "path": "MaterialLibs/mymatsKNZY/Textures/WPC.PNG.DDS",
+      "size": 349700,
+      "date": 132487259138039290
     },
     {
-      "path": "MaterialLibs/mymats/Textures/wpc.png.DDS.FLAGS",
+      "path": "MaterialLibs/mymatsKNZY/Textures/wpc.png.DDS.FLAGS",
       "size": 39,
       "date": 132439972199590065
     },
     {
-      "path": "MaterialLibs/mymats/Textures/WPC.PNG.DDS.json",
+      "path": "MaterialLibs/mymatsKNZY/Textures/WPC.PNG.DDS.json",
       "size": 181,
-      "date": 132463372480759193
+      "date": 132487259138019273
     },
     {
-      "path": "MaterialLibs/mymats/Textures/YPC.PNG.DDS",
-      "size": 1048704,
-      "date": 132463372480669100
+      "path": "MaterialLibs/mymatsKNZY/Textures/YPC.PNG.DDS",
+      "size": 349700,
+      "date": 132487259136709143
     },
     {
-      "path": "MaterialLibs/mymats/Textures/ypc.png.DDS.FLAGS",
+      "path": "MaterialLibs/mymatsKNZY/Textures/ypc.png.DDS.FLAGS",
       "size": 39,
       "date": 132439972634612006
     },
     {
-      "path": "MaterialLibs/mymats/Textures/YPC.PNG.DDS.json",
+      "path": "MaterialLibs/mymatsKNZY/Textures/YPC.PNG.DDS.json",
       "size": 232,
-      "date": 132463372480620833
+      "date": 132487259136689128
     },
     {
-      "path": "scenery/global/scenery/airport-KNZY.bgl",
+      "path": "scenery/global/sceneryKNZY/airport-KNZY.bgl",
       "size": 445593,
-      "date": 132463460234656254
+      "date": 132487259134632396
     },
     {
-      "path": "scenery/global/scenery/MAIN-AIRPORT-POLY.BGL",
+      "path": "scenery/global/sceneryKNZY/MAIN-AIRPORT-POLY.BGL",
       "size": 3375,
-      "date": 132463450131001797
+      "date": 132487259135102835
     }
   ]
 }
