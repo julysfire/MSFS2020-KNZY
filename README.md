@@ -29,6 +29,10 @@ For the Steam edition:
 
 ### Release Notes
 
+Release: V1.3.1
+
+- Added compatibility for USA update
+
 Release: V1.3.0
 
 - Fixed and improved on a lot of ground textures.  This should look a lot closer to Google map's images of the area.
