@@ -29,18 +29,13 @@ For the Steam edition:
 
 ### Release Notes
 
-Release: V1.3.1
+Release: V1.6.0
 
-- Added compatibility for USA update
-
-Release: V1.3.0
-
-- Fixed and improved on a lot of ground textures.  This should look a lot closer to Google map's images of the area.
-- Taxiways and runways should now line up (ATC should be able to guide correctly now).
-- Corrected some of the incorrect hold short lines.
-- Fixed some approach lighting systems.
-- Found and put back an apron that had gone missing.
-- Added some more 3D objects.
+- Update for World Update X
+- Updated a lot of the painted lines to be more accurate
+- Updated some of the textures to match newer imagery
+- Fixed many broken taxi ways
+- Connected all parking sppots to work with ATC and guidelines
 
 #### Screenshots
 

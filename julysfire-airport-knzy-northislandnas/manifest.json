@@ -4,11 +4,11 @@
   "title": "KNZY - North Island NAS",
   "manufacturer": "",
   "creator": "julysfire",
-  "package_version": "1.5.0",
-  "minimum_game_version": "1.18.15",
+  "package_version": "1.6.0",
+  "minimum_game_version": "1.26.5",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "",
+      "LastUpdate": "VERSION 1.6.0 RELEASED JANUARY 1, 0\\n- Update for World Update X\n- Updated a lot of the painted lines to be more accurate\n- Updated some of the textures to match newer imagery\n- Fixed many broken taxi ways\n- Connected all parking sppots to work with ATC and guidelines",
       "OlderHistory": ""
     }
   }
