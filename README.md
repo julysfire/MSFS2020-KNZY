@@ -35,7 +35,7 @@ Release: V1.6.0
 - Updated a lot of the painted lines to be more accurate
 - Updated some of the textures to match newer imagery
 - Fixed many broken taxi ways
-- Connected all parking sppots to work with ATC and guidelines
+- Connected all parking spots to work with ATC and guidelines
 
 #### Screenshots
 
