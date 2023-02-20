@@ -1,0 +1,10 @@
+{
+  "package-name": "julysfire-airport-knzy-northislandnas",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "KNZY",
+      "revision": 1
+    }
+  ]
+}

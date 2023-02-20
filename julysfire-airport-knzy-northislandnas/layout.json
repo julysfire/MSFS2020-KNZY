@@ -1,6 +1,11 @@
 {
   "content": [
     {
+      "path": "ContentInfo/julysfire-airport-knzy-northislandnas/ContentHistory.json",
+      "size": 161,
+      "date": 133213329956183468
+    },
+    {
       "path": "ContentInfo/julysfire-airport-knzy-northislandnas/Thumbnail.jpg",
       "size": 31010,
       "date": 132531637460671880
@@ -8,12 +13,12 @@
     {
       "path": "MaterialLibs/mymatsKNZY/Library.xml",
       "size": 2193,
-      "date": 132998179874399953
+      "date": 133213329953580406
     },
     {
-      "path": "MaterialLibs/mymatsKNZY/Textures/wpc.png.DDS",
+      "path": "MaterialLibs/mymatsKNZY/Textures/WPC.PNG.DDS",
       "size": 349700,
-      "date": 132998179876718455
+      "date": 132439900056380504
     },
     {
       "path": "MaterialLibs/mymatsKNZY/Textures/wpc.png.DDS.FLAGS",
@@ -21,14 +26,14 @@
       "date": 132439972199590065
     },
     {
-      "path": "MaterialLibs/mymatsKNZY/Textures/wpc.png.DDS.json",
+      "path": "MaterialLibs/mymatsKNZY/Textures/WPC.PNG.DDS.json",
       "size": 181,
-      "date": 132998179876708450
+      "date": 132439900056380504
     },
     {
-      "path": "MaterialLibs/mymatsKNZY/Textures/ypc.png.DDS",
+      "path": "MaterialLibs/mymatsKNZY/Textures/YPC.PNG.DDS",
       "size": 349700,
-      "date": 132998179875589116
+      "date": 132439948316472379
     },
     {
       "path": "MaterialLibs/mymatsKNZY/Textures/ypc.png.DDS.FLAGS",
@@ -36,14 +41,14 @@
       "date": 132439972634612006
     },
     {
-      "path": "MaterialLibs/mymatsKNZY/Textures/ypc.png.DDS.json",
+      "path": "MaterialLibs/mymatsKNZY/Textures/YPC.PNG.DDS.json",
       "size": 232,
-      "date": 132998179875579092
+      "date": 132439948316472379
     },
     {
       "path": "scenery/global/sceneryKNZY/airport-KNZY.bgl",
-      "size": 318374,
-      "date": 132998179874319906
+      "size": 318694,
+      "date": 133213329953479539
     }
   ]
 }
